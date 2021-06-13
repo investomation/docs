@@ -28,7 +28,6 @@ Let's look at an example. One of my favorite coins is Harmony. The problem is it
 1. Sell it, and buy something that's trending, a strategy that's disastrous for your long-term investing because you'll always end up buying high and selling low this way.
 
 2. HODL it until its price eventually rises, a great strategy if you indeed did your homework correctly and are holding a coin that's greatly undervalued. This is the value investing strategy Warrent Buffet advocated. The problem with this strategy is two-fold:
-
   - First is that it's incredibly hard to practice the discipline needed to keep calm when everyone else claims the sky is falling, watching your coins go to 20% of the price you paid for them is nerve-wrecking, even if the fundamentals say that it's a winner. The market can remain irrational longer than you can remain solvent, as they say.
   - The second problem with this approach is that you only learn the information that's readily available in news articles and white papers. 
   - (insert a whole lot of new writing that trello lost)
